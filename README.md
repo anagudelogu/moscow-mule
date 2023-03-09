@@ -1,1 +1,10 @@
-# vite-react-template
+# Moscow Mule
+
+## Dev Outline
+
+- Day 1:
+
+  - [x] Install and configure React Router.
+  - [ ] Install and configure Redux.
+  - [ ] Install and configure Firebase.
+  - [ ] Install and configure React-Daisy.
