@@ -6,5 +6,5 @@
 
   - [x] Install and configure React Router.
   - [x] Install and configure Redux.
-  - [ ] Install and configure Firebase.
+  - [x] Install and configure Firebase.
   - [ ] Install and configure React-Daisy.
